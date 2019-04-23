@@ -13,7 +13,7 @@ As an engineer, I believe a good engineer is the one who knows their system's po
 
 First is the need for a solid citizenship ID and a way to deliver a private key for the Citizenship ID holder themself without 3rd party help. My initial idea is the ID holder will register their phone/email to the system and the private key will be sent to their phone/email, but that has a risk of "man in the middle" intrusion. The second is the ID holder will come to some sort of government office/Post Office where they entry their ID number and a printer will print out their private key in a form of QR code (akin to Indonesian train tckets system work).
 
-The second is it all depends on the government's good will that makes the source code open, that's why I choose to use GNU GPL license for the project. A tyrannical/oligarchy government can just change the source code and call those who points that out as a person who spreads hoax using their controlled media machine.
+The second is it all depends on the government's good will that makes the source code open, that's why I choose to use GNU GPL license for the project. A tyrannical/oligarchy government can just change the source code and call those who points that out as a person who spreads hoax using their controlled media machine (A.K.A. your textbook thought control).
 
 ## Call for contributors & Critics
 I am only human, i can't do this alone. I need more people from the blockchain development community and civil society with a concern to freedom and democracy to build this idea, I hope at least this system can be used for a small voting. But our vision is greater than that, our vision is this project or the project that replaces it will be the new standard for democracy index.
